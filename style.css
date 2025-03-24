@@ -2,3 +2,22 @@ html {
   height: 100%;
   width: 100%;
 }
+.dd1 {
+  color: Blue;
+  background-color: White;
+  text-align: center;
+  padding: 25px;
+}
+.dd2 {
+  color: White;
+  background-color: Black;
+  padding: 8px;
+  display: block;
+}
+.dd2 a {
+  color: Green;
+}
+.dd2 a:hover {
+  color: Pink;
+  background-color: White;
+}
