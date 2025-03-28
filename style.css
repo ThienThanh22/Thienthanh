@@ -3,15 +3,15 @@ html {
   width: 100%;
 }
 .dd1 {
-  color: Blue;
-  background-color: White;
+  color: Pearl;
+  background-color: Gray;
   text-align: center;
-  padding: 25px;
+  padding: 50px;
 }
 .dd2 {
   color: White;
   background-color: Black;
-  padding: 8px;
+  padding: 15px;
   display: block;
 }
 .dd2 a {
