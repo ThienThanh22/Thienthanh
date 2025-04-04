@@ -16,7 +16,9 @@ html {
 }
 .dd2 a {
   color: Green;
-  padding: 10px; 
+  padding: 10px;
+  display: block;
+  float:left;
 }
 .dd2 a:hover {
   color: Pink;
